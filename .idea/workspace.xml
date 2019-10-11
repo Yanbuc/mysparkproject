@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed29ef9-47f5-4951-bcb7-1686af7b21a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/.idea/artifacts/cc_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/src/main/scala/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cc/src/main/scala/WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehadoopfirst/src/main/java/kafkaproject/HdfsWrit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehadoopfirst/src/main/java/sg/HadoopTy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocFileInputFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocFileOutputFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/hivepack/DocWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myfun/GenericUDAFHistogramNumericEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myfun/MyHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/Stp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/TestDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/TestJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegehivess/src/main/java/myhive/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegenextHadoop/src/main/java/file/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegenextHadoop/src/main/java/file/dirs/Mkdirs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegenextHadoop/src/main/java/file/readfile/TestReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegenextHadoop/src/main/java/file/writefile/TestWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegenextHadoop/src/main/java/spark/JavaWrodCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/BoonWind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Ones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/TestTmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Twos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Abs/Wind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/JVM/ClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/JVM/TestGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/JVM/TestSystemProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/Variab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/FindCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/FindLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/LeetcodeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/ListLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/MergeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/LinkedList/Solutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/Matrix/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/CheckMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/GetMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/GetSingleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/MulArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/Solutaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/TestBool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/array/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/binary/BinaryCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/Dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/dp/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/fenzhi/Fenzhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/heap/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/AddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/CalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/CheckNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/CompareClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/DoAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/FrontN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/GetNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/ReverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/math/SingleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/offer/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/GetTopN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/sort/mergesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/stack/JudgeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/CicleStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/FindStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/JudgeStrIsNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/ReverseStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/StrMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/StrPailie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/StrSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/str/TransfromStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/CheckBaskendTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/CheckIsRepeatedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/CheckTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/ComBinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/GetBinaryTreeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/GetTreedepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/MiddleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/MirrorBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/NextNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/PrintTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/SerizalBinaryTre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/Solutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/Topk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/TransfromTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algo/tree/ZTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algorepeat/LinkedList/LinkedListAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algorepeat/str/Str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/algorepeat/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/ClassUseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/LoadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/SingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/classloader/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/Tp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/map/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/my/TestLinkedListAndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/collection/set/TestHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/compare/Comp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/compare/GetPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/compare/ShapeComparaotr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/datatype/CharToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/datatype/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/datatype/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/equal/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/Meth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/OneException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/ThreeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/exception/TwoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/file/FileU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/file/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/file/IoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/file/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/file/packagedescription" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/finalkeyword/FinalKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/finalkeyword/SonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/FireDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/FirstInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/MyInterfaceImplements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/MyReadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/NormalDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/RootInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/SecRootInferface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/SomeInferface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Mul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Pology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/SInple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/SimpleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/nextinterface/Third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Cc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Ints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Intt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Sim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Some.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/Ssinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/intercfa/simleinterface/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/jdbc/DataBaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/list/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/list/ListTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/list/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/myclass/TestMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/myclass/TestOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/myclass/TheTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/AbstractClass/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/JNC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/TestAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/TestWine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/Wine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/InnerClassCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/InnerClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/MethodInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/NoNameClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/Str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/TestInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/factory/FactoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/factory/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/inner/factory/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/myclass/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/object/mymath/Matha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/properties/PropertiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/ALiPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/DynamicProxy/DynamicHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/DynamicProxy/DynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/Meituan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/ReflectAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/TestReflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/WeChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/proxy/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/proxy/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/proxy/ReadlObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflect/proxy/SimpleProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/reflection/Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/socket/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/socket/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/socket/packagedescription" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StrTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StringBufferTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StringBuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/TestPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/TestScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/str/TestStringReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/common/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/generalJava/NoNameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/generalJava/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/RunMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/adapter/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/CheerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/CheerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/ChersFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/ChersGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/javadesignpattern/factory/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/ConsumerUseReblance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/KfkConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/consumer/StandAloneConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/offset/KafkaOffset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/offset/KafkaOffsetManager.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/Kproducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/partitioner/DefinePartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/serizer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/kafka/producer/serizer/CustomerSerizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/myutils/fileutils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/org/apache/spark/streaming/kafka/KafkaManager.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/scala/common/option/OptionTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/Clousure.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/JavaWrodCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/SecSort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/TestSortBy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparkmllib/ALSRecommendMllibBestParamTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparkmllib/ItemCf.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparkmllib/UserCf.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/sparksql/WindowFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/streaming/MapWtithState.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/streaming/TransformDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/spark/streaming/WordCountUseMapWithState.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/testjava/TeByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/testjava/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/testjava/TryFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/UnLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/AbstractExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/DefineExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/Dexecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/MyExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/corr/MyExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/activeobject/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/balking/BalkingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/balking/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/countdown/CountClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/countdown/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/countdown/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/AcyncFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/FutureClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/FutureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/FutureTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/future/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/SuspensionClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/ThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/ThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/guardsuspension/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/immuobject/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/ObServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/ObserverClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/observer/TenObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/ProducerAndConsumerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/producerconsumer/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ReadWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ShareResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/ThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/readwriteleave/WriterWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/single/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/ThreadLocalSimilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/ContextCLient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/QueryFromDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/QueryFromHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/ContextCLient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/QueryFromDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/context1/QueryFromHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/threadlocal/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/twopraphthread/CounterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/twopraphthread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/twopraphthread/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/ThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/TransportThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/WorkThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/designpattern/workthread/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/multithread/WorkRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/multithread/WorkThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Single5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/single/desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/threadpool/SimpleThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/vola/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/thread/waitset/WaitSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadGroup/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadGroup/TryThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadhook/DealThreadExceptoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadhook/Exec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/MultiMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/OptionalTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TestJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadGg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadIntru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadJoinTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/ThreadUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TickWindowRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TicketWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/TryThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/BooleanLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/SychronizedQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/lock/TestDIYLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/DifferenceOfWaitAndSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/ProComV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/ProCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/produceComsumer/ReaLproductExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/StopThreadGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/TestJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/TestThrad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/stopthread/ThreadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/sychronizedpac/ClassSyc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/threadtry/sychronizedpac/SychStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/topologTry/TryPology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/LoadResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/ReadHadoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/ReadOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/ReadTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/java/tryhadoop/a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comyuegethreadtry/src/main/resources/properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecshop/eshop/src/main/java/eshop/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/ff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ff/src/main/java/One.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/myfi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaa/src/main/java/One.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scal/A.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sd/A.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdd/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdd/src/main/scala/Some.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tui/src/main/scala/te/TestZookeeper.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tui/src/main/scala/te/TrainModel2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tui/src/main/scala/te/WordCountS.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuege/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuege/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn/shi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../learn/shi.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="78964614">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="46" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="23" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="257" />
+          <entry key="preoperties" value="1" />
+          <entry key="properties" value="6" />
+          <entry key="scala" value="18" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="257" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="6" />
+          <entry key="Scala" value="18" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="java" value="44086" />
+          <entry key="properties" value="163" />
+          <entry key="scala" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="44086" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="163" />
+          <entry key="Scala" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="comyuegegradeDesign" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sparkContext</find>
+      <find>filter</find>
+      <find>Category</find>
+      <find>broadC</find>
+      <find>accuma</find>
+      <find>accu</find>
+      <find>accumulator</find>
+      <find>count</find>
+      <find>reduceByKey</find>
+      <find>foreach</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/dao/ITask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/daoimpl/TaskDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/SqlUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mockdata/MocksData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/accu/SessionAggrStatAccumulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ISessionAggrStat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/daoimpl/SessionAggrStatImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/one.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/SessionAggrStat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/NumberUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/TestSub.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mockdata/MockData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/DateUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/TestDate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/TestRandom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ISessionRandomExtract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/daoimpl/SessionRandomExtractImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/SessionRandomExtract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/session/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Top10Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ITop10Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/daoimpl/Top10CategoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/TestTreeMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/daoimpl/Top10CategorySession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ITop10CategorySession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Top10CategorySession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/daoimpl/Top10CategorySessionImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdbc/JDBCHelpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdbc/JDBCHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/SparkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ParamsUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/TestCollectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/PageSplitConvertRate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IPageSplitConvertRate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/daoimpl/PageSplitConvertRateImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myfunc/Concat2Str.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myfunc/Group_distinct_concat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myfunc/getJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myfunc/GetJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IAreaTop3Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/AreaTop3ProductImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/Daofactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/AreaTop3Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/accu/MyAccumator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/session/UserVisitAnalize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/page/PageOneStepConvertRate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/product/AreaProductCalculate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/conf/ConfigurationManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\codefile\maven" />
+        <option name="userSettingsFile" value="D:\codetl\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.yuege.gradeDesign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="750" />
+    <option name="height" value="590" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comyuegegradeDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comyuegegradeDesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ShuffledRDD&#9;null&#9;null&#10;RDD&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570625549310" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jdbc" />
+      <recent name="mockdata" />
+      <recent name="utils" />
+      <recent name="accu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AreaProductCalculate">
+    <configuration name="AreaProductCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="product.AreaProductCalculate" />
+      <module name="comyuegegradeDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageOneStepConvertRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page.PageOneStepConvertRate" />
+      <module name="comyuegegradeDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCollectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestCollectionSort" />
+      <module name="comyuegegradeDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestTreeMap" />
+      <module name="comyuegegradeDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserVisitAnalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.UserVisitAnalize" />
+      <module name="comyuegegradeDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserVisitAnalize" />
+      <item itemvalue="Application.TestTreeMap" />
+      <item itemvalue="Application.PageOneStepConvertRate" />
+      <item itemvalue="Application.TestCollectionSort" />
+      <item itemvalue="Application.AreaProductCalculate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaProductCalculate" />
+        <item itemvalue="Application.PageOneStepConvertRate" />
+        <item itemvalue="Application.TestCollectionSort" />
+        <item itemvalue="Application.UserVisitAnalize" />
+        <item itemvalue="Application.TestTreeMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed29ef9-47f5-4951-bcb7-1686af7b21a2" name="Default Changelist" comment="" />
+      <created>1551531051227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551531051227</updated>
+      <workItem from="1551531054911" duration="4981000" />
+      <workItem from="1551586236338" duration="2966000" />
+      <workItem from="1551609780919" duration="423000" />
+      <workItem from="1551611535634" duration="4266000" />
+      <workItem from="1551927895951" duration="2214000" />
+      <workItem from="1551940131557" duration="612000" />
+      <workItem from="1552043257015" duration="104000" />
+      <workItem from="1554086813081" duration="631000" />
+      <workItem from="1554378728349" duration="20000" />
+      <workItem from="1555984128940" duration="10760000" />
+      <workItem from="1556068322279" duration="31479000" />
+      <workItem from="1556165291430" duration="21706000" />
+      <workItem from="1556242916274" duration="25591000" />
+      <workItem from="1556362477212" duration="9016000" />
+      <workItem from="1556420273976" duration="12747000" />
+      <workItem from="1556523659221" duration="1202000" />
+      <workItem from="1556588853262" duration="1651000" />
+      <workItem from="1556630987534" duration="13000" />
+      <workItem from="1556716781182" duration="21000" />
+      <workItem from="1556716840362" duration="5000" />
+      <workItem from="1557035540167" duration="262000" />
+      <workItem from="1557141026817" duration="82000" />
+      <workItem from="1557141447215" duration="1719000" />
+      <workItem from="1557326452502" duration="59000" />
+      <workItem from="1557367730525" duration="59000" />
+      <workItem from="1558272814826" duration="2010000" />
+      <workItem from="1559916516747" duration="649000" />
+      <workItem from="1564658890489" duration="3076000" />
+      <workItem from="1564663115440" duration="3932000" />
+      <workItem from="1564708211911" duration="2867000" />
+      <workItem from="1564839770139" duration="40000" />
+      <workItem from="1565746887294" duration="299000" />
+      <workItem from="1565839211642" duration="31000" />
+      <workItem from="1566123271366" duration="601000" />
+      <workItem from="1566179793153" duration="683000" />
+      <workItem from="1566301738645" duration="11263000" />
+      <workItem from="1566407442340" duration="99000" />
+      <workItem from="1566408043416" duration="430000" />
+      <workItem from="1566408536616" duration="27000" />
+      <workItem from="1566524407098" duration="1021000" />
+      <workItem from="1566557312816" duration="589000" />
+      <workItem from="1568036750868" duration="940000" />
+      <workItem from="1569163069296" duration="10000" />
+      <workItem from="1570274283247" duration="624000" />
+      <workItem from="1570595440491" duration="23000" />
+      <workItem from="1570595498018" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.470922" visible="true" weight="0.17225201" />
+      <window_info id="Structure" order="1" sideWeight="0.529078" side_tool="true" weight="0.16420911" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50070924" side_tool="true" weight="0.22520107" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.77304965" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49787235" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32907802" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.470922" visible="true" weight="0.16420911" />
+      <window_info id="Structure" order="1" sideWeight="0.529078" side_tool="true" visible="true" weight="0.16420911" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50070924" side_tool="true" weight="0.22520107" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.77304965" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49787235" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32907802" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/TestSparkUtils.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/daoimpl/SessionRandomExtractImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/daoimpl/SessionAggrStatImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/SessionRandomExtract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar!/org/apache/spark/SparkConf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="192" column="51" lean-forward="true" selection-start-line="192" selection-start-column="51" selection-end-line="192" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/ITop10Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/daoimpl/Top10CategoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Top10Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/TestTreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/ITop10CategorySession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Top10CategorySession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="49" column="66" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdbc/JDBCHelpers.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/daoimpl/Top10CategorySessionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/ISessionRandomExtract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdbc/JDBCHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="127" column="37" selection-start-line="127" selection-start-column="37" selection-end-line="127" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/TestCollectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/PageSplitConvertRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mockdata/MockData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/IPageSplitConvertRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/daoimpl/PageSplitConvertRateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.0/spark-catalyst_2.11-2.0.0-sources.jar!/org/apache/spark/sql/types/StructField.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.0/spark-sql_2.11-2.0.0-sources.jar!/org/apache/spark/sql/expressions/udaf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.0/spark-sql_2.11-2.0.0-sources.jar!/org/apache/spark/sql/UDFRegistration.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/IAreaTop3Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/Daofactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/AreaTop3Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/daoimpl/AreaTop3ProductImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar!/org/apache/spark/util/AccumulatorV2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/SessionAggrStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mockdata/MocksData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="100" column="50" selection-start-line="100" selection-start-column="50" selection-end-line="100" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/session/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/SparkUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/accu/MyAccumator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/SqlUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-497">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="1292" column="2" lean-forward="true" selection-start-line="1292" selection-start-column="2" selection-end-line="1292" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myfunc/GetJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myfunc/Concat2Str.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myfunc/Group_distinct_concat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar!/org/apache/spark/api/java/JavaPairRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9108">
+          <caret line="291" column="19" selection-start-line="291" selection-start-column="19" selection-end-line="291" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="871" column="5" selection-start-line="871" selection-start-column="5" selection-end-line="871" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar!/org/apache/spark/rdd/ShuffledRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/ParamsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/product/AreaProductCalculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="91" column="13" lean-forward="true" selection-start-line="91" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/session/UserVisitAnalize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="679" column="30" selection-start-line="679" selection-start-column="30" selection-end-line="679" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/PageOneStepConvertRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/conf/ConfigurationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
